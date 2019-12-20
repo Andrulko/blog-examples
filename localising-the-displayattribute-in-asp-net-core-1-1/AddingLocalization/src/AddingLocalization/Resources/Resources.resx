@@ -117,13 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ViewModels.HomeViewModel.NotAValidEmail" xml:space="preserve">
-    <value>The Email field is not a valid e -mail</value>
+  <data name="ViewModels.TestString1" xml:space="preserve">
+    <value>Validate your email address</value>
   </data>
-  <data name="ViewModels.HomeViewModel.Required" xml:space="preserve">
-    <value>Required</value>
+  <data name="ViewModels.TestString2" xml:space="preserve">
+    <value>Save document on server</value>
   </data>
-  <data name="ViewModels.HomeViewModel.YourEmail" xml:space="preserve">
-    <value>Your Email</value>
+  <data name="ViewModels.TestString3" xml:space="preserve">
+    <value>Share File</value>
   </data>
 </root>
